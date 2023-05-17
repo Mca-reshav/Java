@@ -1,0 +1,43 @@
+Inheritance:
+            1.Single Inheritance
+                    (P) Parent
+                     |
+                     |
+                     |
+                     v
+                    (C) Child
+
+            2.Multi Level Inheritance
+
+                     (SP) Super Parent
+                      |
+                      |
+                      |
+                      v
+                     (P) Parent
+                      |
+                      |
+                      |
+                      v
+                     (C) Child
+
+
+            3.Hierarchical Inheritance
+                     (P)
+                      |
+                      |
+                      |
+                      v
+             ___________________
+             |        |         |
+             |        |         |
+             v        v         v
+            (C1)     (C2)      (C3)
+            4.Multiple Inheritance(using Interface)
+
+                (M)_________(F)
+                        |
+                        |
+                        v
+                       (C)
+            5.Hybrid Inheritance(using Interface): Mix of two or more types of inheritance

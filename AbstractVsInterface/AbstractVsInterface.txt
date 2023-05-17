@@ -1,0 +1,11 @@
+
+
+1. Multiple Inheritance             No      Yes
+2. Constructor                      Yes     No
+3. Function with body               Yes     No
+4. Static function                  Yes     No
+5. Function properties              Yes     Private not allowed
+(Public, Private and Protected)
+ */
+
+
